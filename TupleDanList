@@ -1,0 +1,17 @@
+#nama : nadia 
+#nim : D0425332
+
+#tuple
+#tuple tak bisa diubah
+Makanan = ("bakso", "nasi goreng","soto")
+print("list tuple  : ", Makanan)
+print("donat:", Makanan[0])
+
+
+#List
+buah = ["jeruk", "anggur","durian"] 
+print("Sebelum diubah:", buah)
+
+buah[1] = "anggur"    
+buah.append("apel")  
+print("setelah diubah:",buah)
