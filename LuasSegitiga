@@ -1,0 +1,11 @@
+#nama : nadia
+#nim : D0425332
+#luas segitiga 
+
+print("Program Menghitung Luas Segitiga")
+
+alas = int(input("Masukkan nilai alas: "))
+tinggi = int(input("Masukkan nilai tinggi: "))
+hasil = (alas * tinggi) // 2
+
+print(f"Hasil luas segitiga adalah: {hasil}")
