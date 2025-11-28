@@ -1,0 +1,11 @@
+#Nama : Nadia
+#Nim : D0425332
+#kelas : B sistem informasi 
+#Array
+
+#Array adalah kumpulan nilai dengan tipe data yang sama yang disimpan dalam satu variabel dan diakses menggunakan indeks.
+
+#array 
+buah = ['apel', 'pisang', 'mangga'] #sebuah variabel bernama buah dengan isi nama² buah
+print(buah[0]) #menampilkan isi varibel pada indeks ke 0 yaitu apel
+print(buah) #menampilkan semua isi yang ada didalam variabel buah
