@@ -1,0 +1,11 @@
+#Nama : Nadia
+#Nim : D0425332
+#Kelas : B sistem informasi 
+
+#Dictionary adalah struktur data yang menyimpan pasangan kunci-nilai, memungkinkan akses data dengan menggunakan kunci unik.
+
+
+#Dictionary
+data = {'nama': 'Nadia', 'umur': 19, 'kota': 'Polewali'} #variabel data yang menampung key dan value. 
+print(data['nama']) #menampilkan value dari key : nama
+print(data) #menampilkan semua isi data yang ada di dalam variabel data
