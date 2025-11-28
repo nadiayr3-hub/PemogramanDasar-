@@ -1,0 +1,11 @@
+#nama : nadia
+#nim : D0425332
+#luas persegi
+
+
+print("Program Menghitung Luas Persegi")
+
+sisi = int(input("Masukkan nilai sisi: "))
+hasil = sisi ** 2
+
+print(f"Hasil luas persegi adalah: {hasil}")
